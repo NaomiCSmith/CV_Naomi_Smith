@@ -42,6 +42,7 @@ _Customer Trading Assistant_
 - My role consisted of operations work on the shop floor, finalising purchases at the tills, reducing items and disposing of unusable stock, as well as putting together deliveries for Uber pick up and distributing Argos package collections.
 
 **Boots** (Dec-19 to Apr-20)
+
 _Customer Assistant_
 
 - Starting as a Christmas temp, my contract was extended past January and I became part of the operations team.
