@@ -27,7 +27,7 @@ I come from a customer service background with a love of the English language an
 ## Work Experience
 
 **Kent County Council** (Dec-21 to Present)                 
-_Customer Support Assistant_
+_Customer Support Assistant (Libraries)_
 
 - I work in both a team at Kent History and Library Centre and alone at smaller branch libraries across the Maidstone district.
 - Duties include shelf tidying, serving customers and answering phone, email and in-person queries, applying for disabled and older person bus passes, creating and signing in appointments for the birth and death registration service, running reports and managing library stock accordingly.
