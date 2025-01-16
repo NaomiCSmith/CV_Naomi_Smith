@@ -1,6 +1,6 @@
 ## Naomi Smith - Graduate, Librarian, and now Coder
 
-I come from a customer service background with a love of the English language and a Masters degree in Publishing, and am looking for my first step into the coding world. I am a calm, upbeat individual that is great at dealing with whatever is thrown at me with enthusiasm and diligence. My greatest strengths are my ability to learn quickly, to communicate clearly, and my tenacity. I'm excited to start a career that is mentally stimulating and a constant learning opportunity, and hopefully with the opportunity to create some interesting and useful apps along the way.
+I come from a customer service background with a love of the English language and a Masters degree in Publishing, and am looking for my first step into the coding world. My greatest strengths are my ability to learn quickly, to communicate clearly, and my tenacity. I'm excited to start a career that is mentally stimulating and a constant learning opportunity, and hopefully with the opportunity to create some interesting and useful apps along the way.
 
 ## Projects
 
