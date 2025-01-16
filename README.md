@@ -99,9 +99,9 @@ I honed my communication skills while completing my thesis at university, which 
     2. Competed in archery university competitions across the country.
     3. Editor of _Cake_, a literary collection published by Lancaster University Press.
 
-#### Any other qualifications
+#### Other Qualifications
 
-- Level 5 TEFL (teaching english as a foreign language) Certificate -> with Merit
+- Level 5 TEFL (Teaching English as a Foreign Language) Certificate -> with Merit
 - A Level –> Geography (A*), English Literature (A), General Studies (A*), Psychology (C)
 - AS Level –> Classical Civilisation (A)
 - GCSE –> 12 A-B grades, including Mathematics (A), English Language (A), and ICT (A)
@@ -112,4 +112,6 @@ I honed my communication skills while completing my thesis at university, which 
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Reading – A bias towards science fiction and fantasy, but I also read mystery, contemporary, romance, and literary – all sorts really!
+- Archery – Safety and Equipment Officer 2016/17 and President 2017/18 of Lancaster University Archery Club. I competed in inter-university competitions such as NEUAL, Roses, and BUCs. I coached novices and developed their archery skills. I quickly learnt how to counter problems and keep a club of over 60 students running smoothly, employing good organisation, leadership, and teamwork skills.
+- Jigsaw puzzles - I'm not great at them but enjoy the challenge!
