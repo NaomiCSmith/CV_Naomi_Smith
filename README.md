@@ -4,22 +4,43 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         | Description                                     | Tech/tools        |
+| ---------------------------- | ----------------------------------------------- | ----------------- |
+| Mean Money                   | A financial budgeting app, including snappy     | MongoDB, Express, |
+|                              | advice, spending diaries and goals, graphs,     | React, Node       |
+|                              | and a spending personality quiz                 |                   |
+|                              |                                                 |                   |
+| Name                         | Description                                     | Tech/tools        |
+| ---------------------------- | ----------------------------------------------- | ----------------- |
+| Acebook                      | A social networking web application inspired by | MongoDB, Express, |
+|                              | Facebook, including adding followers, comments, | React, Node       |
+|                              | personal profiles, likes, and posts homepage    |                   |
+|                              |                                                 |                   |
+| Name                         | Description                                     | Tech/tools        |
+| ---------------------------- | ----------------------------------------------- | ----------------- |
+| Makersbnb                    | A holiday property letting website inspired by  | Python, SQL       |
+|                              | Airbnb, including listings, booking requests,   |                   |
+|                              | and adding properties to be listed              |                   |
+|                              |                                                 |                   |
+
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Kent County Council** (Dec-21 to Present)  
+_Customer Support Assistant_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- I work in both a team at Kent History and Library Centre and alone at smaller branch libraries across the Maidstone district.
+- Duties include shelf tidying, serving customers and answering phone, email and in-person queries, applying for disabled and older person bus passes, creating and signing in appointments for the birth and death registration service, running reports and managing library stock accordingly.
+- Before the Makers bootcamp I had been given additional roles:
+    1. ‘Social Media Editor’, creating social media posts for  the recent Shaun the Sheep art trail and Maidstone LitFest 2023
+    2. ‘Volunteer Champion’ role, which involved the administration, interviewing, assigning, and co-ordination of 120+ volunteers across the twelve libraries in the Maidstone District.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
 
-- Any experience relevent to software development
+**Sainsburys** (Aug-21 to Apr-22)  
+_Customer Trading Assistant_
+
+- Working as part of a team, I replenished stock, delivered excellent customer service, unloaded deliveries, and kept the store clean and tidy.
+- My role consisted of operations work on the shop floor, finalising purchases at the tills, reducing items and disposing of unusable stock, as well as putting together deliveries for Uber pick up and distributing Argos package collections.
 
 ## Skills
 
